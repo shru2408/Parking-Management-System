@@ -10,4 +10,5 @@ There is a search option also so- if that person wants to update the check-out t
 of that vehicle then the person searches that vehicle by using its vehicle number, owner's name and contact number. 
 
 Here is the outlook of that software:
-Outlook of PMS.png
+https://github.com/shru2408/Parking-Management-System/blob/edef264023409a41f4f50b2069a31317e46bf69a/Outlook%20of%20PMS.png
+![Outlook](Outlook of PMS.png)
